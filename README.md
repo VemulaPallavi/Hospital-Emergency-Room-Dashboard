@@ -22,7 +22,6 @@ The Hospital Emergency Room Dashboard is an Excel-based interactive dashboard de
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Conditional Formatting
 
 ## Files Uploaded
 - Hospital_Emergency_Room_Dashboard.xlsx
